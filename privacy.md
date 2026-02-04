@@ -36,6 +36,14 @@ We collect anonymous usage analytics via PostHog to understand how the app is us
 
 Analytics data does not include your location, kids' information, or any personally identifiable information. We do not track you across other apps or websites.
 
+### Crash Reporting
+We use Sentry to collect anonymous crash reports and error diagnostics. This helps us identify and fix bugs. Crash reports may include:
+- Device type and operating system version
+- App version
+- Stack traces (technical error details)
+
+Crash reports do not include your location, kids' information, or any personally identifiable information.
+
 ## Information We Do NOT Collect
 
 - Email addresses (no account required)
@@ -54,6 +62,7 @@ Our servers provide event and place listings only. We do not store any user-spec
 
 - **Backend servers:** Provide event and place listings. Receive your location (if permitted) and age category filters to return relevant results. No user data is stored.
 - **PostHog:** Receives anonymous usage analytics (see Analytics section above). PostHog's privacy policy is available at [posthog.com/privacy](https://posthog.com/privacy).
+- **Sentry:** Receives anonymous crash reports and error diagnostics (see Crash Reporting section above). Sentry's privacy policy is available at [sentry.io/privacy](https://sentry.io/privacy/).
 
 We do not sell or share your information with third parties for advertising purposes.
 
