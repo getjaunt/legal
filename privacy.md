@@ -68,7 +68,19 @@ We do not sell or share your information with third parties for advertising purp
 
 ## Children's Privacy
 
-Jaunt is designed for families. We do not knowingly collect personal information from children. Kids' profile data (names, ages, interests) is stored only on your device and is never sent to our servers or third parties.
+Jaunt is designed for use by parents and caregivers. The App is not intended to be operated by children. Parents and caregivers enter their children's profile information (names, ages, interests) themselves. This data is stored only on your device and is never sent to our servers or third parties.
+
+We do not knowingly collect personal information directly from children under 13. If you believe a child has provided us with personal information, please contact us and we will delete it promptly.
+
+## Data Retention
+
+Data stored on your device (children's profiles, saved events, preferences) remains until you delete it or uninstall the App.
+
+For third-party services that process anonymous data on our behalf:
+- **PostHog (analytics):** Anonymous usage data is retained for up to 1 year.
+- **Sentry (crash reports):** Anonymous crash and error data is retained for up to 90 days.
+
+We do not store any user-identifiable data on our servers.
 
 ## Changes to This Policy
 
