@@ -28,7 +28,7 @@ If you choose to add an event to your calendar, we request calendar access. This
 When you save events or places, this information is stored locally on your device only.
 
 ### Analytics
-We collect anonymous usage analytics via Mixpanel to understand how the app is used and improve the experience. This includes:
+We collect anonymous usage analytics via PostHog to understand how the app is used and improve the experience. This includes:
 - App opens
 - Events and places viewed
 - Events saved
@@ -53,7 +53,7 @@ Our servers provide event and place listings only. We do not store any user-spec
 ## Third-Party Services
 
 - **Backend servers:** Provide event and place listings. Receive your location (if permitted) and age category filters to return relevant results. No user data is stored.
-- **Mixpanel:** Receives anonymous usage analytics (see Analytics section above). Mixpanel's privacy policy is available at [mixpanel.com/legal/privacy-policy](https://mixpanel.com/legal/privacy-policy).
+- **PostHog:** Receives anonymous usage analytics (see Analytics section above). PostHog's privacy policy is available at [posthog.com/privacy](https://posthog.com/privacy).
 
 We do not sell or share your information with third parties for advertising purposes.
 
